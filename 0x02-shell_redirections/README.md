@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Best SChool"> \\\*\\\\"'Best School\"\\'\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+ 7-file
